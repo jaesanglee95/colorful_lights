@@ -8,9 +8,11 @@ http://www.cmctoday.co.kr/news/articleList.html?sc_section_code=S1N8&view_type=s
 
 
 -코로나 관련 기사-
+
 <5월>
 홈쇼핑 Big 3, 코로나 타격에도 언택트 콘텐츠로 1Q 실적 방어
 https://www.ajunews.com/view/20200510100728575
+
 ‘코로나19 전략’에 희비 엇갈린 홈쇼핑…‘MD가 갈랐다’
 http://biz.newdaily.co.kr/site/data/html/2020/05/11/2020051100126.html
 
